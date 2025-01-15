@@ -1,0 +1,29 @@
+.footer-container{
+    position: relative;
+    background-color: #080d28;
+    color: white;
+    padding: 100px;
+    padding-top: 210px;
+}
+
+.footer-item{
+    display: flex;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+}
+
+.footer-item h1{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.footer-container img {
+    max-width: 100%;
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+.subscribe-btn{
+    margin-top: 10px;
+}

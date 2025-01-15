@@ -1,0 +1,24 @@
+.bg-color {
+  background: linear-gradient(15deg, rgb(252, 217, 243) 0%, rgb(0, 0, 0) 50%, rgb(195, 201, 198) 100%);
+  max-width: 85%;
+  border-radius: 15px;
+  max-height: 800px;
+  text-align: center;
+  margin: auto;
+  color: azure;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-color img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.button-claim:hover{
+  background-color: rgb(240, 213, 233);
+}

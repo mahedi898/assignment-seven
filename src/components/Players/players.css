@@ -1,0 +1,7 @@
+.players-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 0 92px 0 92px;
+    margin-bottom: 50px;
+}

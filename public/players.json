@@ -1,0 +1,62 @@
+[
+    {
+      "playerId": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/C6qfycm/birat-koli.jpg",
+      "role": "Batsman",
+      "battingType": "Right-Handed",
+      "bowlingType": "N/A",
+      "biddingPrice": 15000000
+    },
+    {
+      "playerId": 2,
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co.com/yYkbTdQ/ben-stokes.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-Handed",
+      "bowlingType": "Right-Arm Fast",
+      "biddingPrice": 12000000
+    },
+    {
+      "playerId": 3,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/rsYbrdy/steve-smith.jpg",
+      "role": "Batsman",
+      "battingType": "Right-Handed",
+      "bowlingType": "N/A",
+      "biddingPrice": 13000000
+    },
+    {
+      "playerId": 4,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/z6mqK80/shakib-al-hasan.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-Handed",
+      "bowlingType": "Left-Arm Orthodox",
+      "biddingPrice": 8000000
+    },
+    {
+      "playerId": 5,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/pKY8kwt/roshid-khan.jpg",
+      "role": "Bowler",
+      "battingType": "Right-Handed",
+      "bowlingType": "Right-Arm Leg Break",
+      "biddingPrice": 10000000
+    },
+    {
+      "playerId": 6,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/GJpFNwR/kane-williamson.jpg",
+      "role": "Batsman",
+      "battingType": "Right-Handed",
+      "bowlingType": "N/A",
+      "biddingPrice": 9500000
+    }
+  ]

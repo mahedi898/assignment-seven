@@ -1,0 +1,14 @@
+.bg-color {
+    background: linear-gradient(15deg, rgb(252, 217, 243) 0%, rgb(0, 0, 0) 50%, rgb(195, 201, 198) 100%);
+
+  }
+  
+  .bg-color img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .button-claim:hover{
+    background-color: rgb(240, 213, 233);
+  }
+  
